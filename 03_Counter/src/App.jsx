@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css'
 
 function App() {
-  let [counter, setCounter]=useState(15);
+  let [counter, setCounter]=useState(15); // This is a Hook
   function addValue(){
     if(counter<20){
       setCounter(counter+1);
