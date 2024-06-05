@@ -1,3 +1,4 @@
+// This is a functional component
 function Muzan(){
     return(
         <h1>Muzan Kibutsuji</h1>
