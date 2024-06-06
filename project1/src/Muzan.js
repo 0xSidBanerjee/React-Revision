@@ -1,5 +1,5 @@
 // This is a functional component
-function Muzan(){
+const Muzan=()=>{
     return(
         <h1>Muzan Kibutsuji</h1>
     )
